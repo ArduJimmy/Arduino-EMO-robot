@@ -34,7 +34,9 @@ This is not EMO robot, but Arduino tries to make it the best it can
 <li>MPU6050.zip</li>
 </ul>
 
+<h3>STILL IN PROGRESS (SIP)</h3>
 <p>This picture is not the same as the video uploaded in video short in my channel. I prefer using Infrared module to ultrasonic module. Why? Ultrasonic module looks bigger and I try to get small even tiny module to make it perfect as a final project.</p>
+<p>I also remove two servos and bracket and change it to DC motor with gearbox N20 with 60 RPM to make the robot looks to the left and right.</p>
 <img src="https://github.com/ArduJimmy/Arduino-EMO-robot/blob/main/emo-robot.jpeg" alt="Rmo Robot in Arduino" title="Arduino Emo Robot"/>
 <p>Again, this is NOT FINAL PROJECT, but you can develope it with your own concept. I will update it as soon as It is final and all is free for you.</p>
 
