@@ -21,8 +21,8 @@ This is not EMO robot, but Arduino tries to make it the best it can
 <p>Please take notice of this following wiring:</p>
 <ul>
   <li>SCL and SDA pins (Mpu6050 & LCD) are connected to A5 and A4 of arduino board pins</li>
-  <li>Always power the LCD 0.96 Inch using 3.3v for STABLE power flow</li>
-  <li></li>
+  <li>Always power the LCD 0.96 Inch and the mpu6050 modules using 3.3v for STABLE power flow</li>
+  <li>Power the arduino using 5v DC (in this concept)</li>
 </ul>
 
 <p>Again, this is NOT FINAL PROJECT, but you can develope it with your own concept. I will update it as soon as It is final and all is free for you.</p>
