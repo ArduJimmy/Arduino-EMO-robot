@@ -25,6 +25,17 @@ This is not EMO robot, but Arduino tries to make it the best it can
   <li>Power the arduino using 5v DC (in this concept)</li>
 </ul>
 
+<h3>Libraries</h3>
+<p>In the list of files, I provided libraries needed to include before you upload your sketch:</p>
+<ul>
+<li>Adafruit_BusIO.zip</li>
+<li>Adafruit_GFX.zip</li>
+<li>Adafruit_SSD1306.zip</li>
+<li>MPU6050.zip</li>
+</ul>
+
+<p>This picture is not the same as the video uploaded in video short in my channel. I prefer using Infrared module to ultrasonic module. Why? Ultrasonic module looks bigger and I try to get small even tiny module to make it perfect as a final project.</p>
+<img src="https://github.com/ArduJimmy/Arduino-EMO-robot/blob/main/emo-robot.jpeg" alt="Rmo Robot in Arduino" title="Arduino Emo Robot"/>
 <p>Again, this is NOT FINAL PROJECT, but you can develope it with your own concept. I will update it as soon as It is final and all is free for you.</p>
 
 #ardujimmy #emo #robot #vector #arduino project
