@@ -37,7 +37,17 @@ This is not EMO robot, but Arduino tries to make it the best it can
 <h3>STILL IN PROGRESS (SIP)</h3>
 <p>This picture is not the same as the video uploaded in video short in my channel. I prefer using Infrared module to ultrasonic module. Why? Ultrasonic module looks bigger and I try to get small even tiny module to make it perfect as a final project.</p>
 <p>I also remove two servos and bracket and change it to DC motor with gearbox N20 with 60 RPM to make the robot looks to the left and right.</p>
+<p>I also add KY-073 or voice sensor module to detect voice level. What I want is:</p>
+<ul>
+  <li>When the robot is sleeping and I call him and he wake up</li>
+  <li>When the robot in "commonBlink" (see inside the ino file), and I call his name, the robot will come to me. When the infrared sensor detect obstacle (me), he stops and sho feeling heppy. </li>
+</ul>
+
+
 <img src="https://github.com/ArduJimmy/Arduino-EMO-robot/blob/main/emo-robot.jpeg" alt="Rmo Robot in Arduino" title="Arduino Emo Robot"/>
+
+<h3>FUTURE FINAL PROJECT</h3>
+<p>Actually, there are many features must be added to this robot, but I'm struggling to do that. At least, this robot will be my companion when I am working. LOL)</p>
 <p>Again, this is NOT FINAL PROJECT, but you can develope it with your own concept. I will update it as soon as It is final and all is free for you.</p>
 
 #ardujimmy #emo #robot #vector #arduino project
